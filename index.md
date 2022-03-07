@@ -14,7 +14,7 @@
 [快乐生活]
 
 
-![image](/assets/images/bg0.jpg)
+![image](/assets/images/bg0.png)
 > 2021年画
 
 
