@@ -2,7 +2,7 @@
 ### 您好，我是砍皮恩，我在做一个很弱智的游戏
 ### 我将会在这里完整的记录我的开发记录和日常碎碎念。
 
-![image]](/assets/images/bg0.png)
+![image](/assets/images/bg0.png)
 > 砍皮恩2021年画
 
 ```
