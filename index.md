@@ -12,7 +12,7 @@
 
 [开发日志](./aboutdev_20220308.html)
 
-[快乐生活]
+[快乐生活] 尚未更新
 
 
 ![image](/assets/images/bg0.png)
