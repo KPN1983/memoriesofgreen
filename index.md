@@ -10,11 +10,9 @@
 
 > 设顶一些实用工具
 
-缓动函数
-[https://easings.net/cn]
+[缓动函数](https://easings.net/cn)
 
-RGB颜色代码
-[https://www.rapidtables.org/zh-CN/web/color/RGB_Color.html]
+[RGB颜色代码](https://www.rapidtables.org/zh-CN/web/color/RGB_Color.html)
 
 [2022-03-07-预备工作](./aboutdev_20220307.html)
 
