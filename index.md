@@ -8,7 +8,13 @@
 现在是2022/3/7 目前待完成内容：原型测试，剧情与数值。
 ```
 
+< 设顶一些实用工具
 
+RGB颜色代码
+https://easings.net/cn
+
+缓动函数
+https://www.rapidtables.org/zh-CN/web/color/RGB_Color.html
 
 [2022-03-07-预备工作](./aboutdev_20220307.html)
 
@@ -21,6 +27,8 @@
 [2022-03-11--03-13](./aboutdev_20220311.html)
 
 [2022-03-18-自定义编辑器](./aboutdev_20220318.html)
+
+
 
 
 
